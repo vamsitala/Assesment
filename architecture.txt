@@ -1,0 +1,4 @@
+﻿1. I have created a controller which I named stored class.
+2. In the stored class we have all the methods which I have developed in the store.java class.
+3. The user will start working with the test.Java. In the test, the class user will create an object for the stored.
+4. By using the object there is an internal data transfer will happen by calling those methods with the obj.
